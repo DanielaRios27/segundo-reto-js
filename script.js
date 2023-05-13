@@ -34,5 +34,5 @@ function mayorArray(arrayNumeros) {
     return "El numero mayor es " + numeroMayor;
   }
 }
-
-console.log(mayorArray([6, 2, 3, 1, 8]));
+// poniéndolo a prueba
+console.log(mayorArray([7, 2, 5, 27, 14]));
